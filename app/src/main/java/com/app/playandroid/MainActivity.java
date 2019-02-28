@@ -17,5 +17,6 @@ public class MainActivity extends AppCompatActivity {
     private void initData() {
         ArrayList<Object> objects = new ArrayList<>();
         objects.add("dfghjkl");
+        objects.add("122");
     }
 }

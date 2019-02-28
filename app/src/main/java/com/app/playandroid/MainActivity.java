@@ -18,5 +18,11 @@ public class MainActivity extends AppCompatActivity {
         ArrayList<Object> objects = new ArrayList<>();
         objects.add("dfghjkl");
         objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+
     }
 }

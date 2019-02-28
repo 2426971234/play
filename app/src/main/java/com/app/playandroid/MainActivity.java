@@ -35,5 +35,11 @@ public class MainActivity extends AppCompatActivity {
         objects.add("12222222a");
         objects.add("12222222a");
 
+
     }
+    public void data(){
+        int i = 3;
+        i++;
+    }
+
 }

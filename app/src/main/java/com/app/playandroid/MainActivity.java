@@ -1,6 +1,5 @@
 package com.app.playandroid;
 
-import android.app.Fragment;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
@@ -29,22 +28,40 @@ public class MainActivity extends AppCompatActivity {
         objects.add("122");
         objects.add("122");
         objects.add("122");
-        objects.add("12222222a");
-        objects.add("12222222a");
-        objects.add("12222222a");
-        objects.add("12222222a");
-        objects.add("12222222a");
-        objects.add("12222222a");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+
+
 
 
     }
-    public void data(){
-        int i = 3;
-        i++;
-    }
-    public void getList(){
-        ArrayList<Fragment> fragments = new ArrayList<>();
+    public void dd(){
 
     }
-
 }

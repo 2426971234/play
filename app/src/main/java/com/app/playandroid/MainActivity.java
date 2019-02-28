@@ -1,5 +1,6 @@
 package com.app.playandroid;
 
+import android.app.Fragment;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
@@ -40,6 +41,10 @@ public class MainActivity extends AppCompatActivity {
     public void data(){
         int i = 3;
         i++;
+    }
+    public void getList(){
+        ArrayList<Fragment> fragments = new ArrayList<>();
+
     }
 
 }

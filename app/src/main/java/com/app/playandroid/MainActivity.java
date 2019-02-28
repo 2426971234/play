@@ -23,6 +23,39 @@ public class MainActivity extends AppCompatActivity {
         objects.add("122");
         objects.add("122");
         objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
+
+        objects.add("122");
+        objects.add("122");
+        objects.add("122");
 
     }
 }
